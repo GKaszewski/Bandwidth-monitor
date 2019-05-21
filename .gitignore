@@ -1,0 +1,4 @@
+#visual studio code stuff
+.vscode/*
+#python stuff
+__pycache__/*
